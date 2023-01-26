@@ -4,4 +4,6 @@ Space Apps 2022 and involved the creation of a web application with a three-dime
 visualisation of seismic activity on the moon visualisation of seismic activity on the moon, using JS, specifically 
 threejs. Direct link to the project here: https://moonquakemap.000webhostapp.com/carousel/index.html
 
-View website and moon visualizer.
+View the website explaining the project and the moon visualizer.
+
+For further information please do not hesitate to contact me: famu1@gcloud.ua.es or https://www.linkedin.com/in/fernandoaugustomarinaurriola/
