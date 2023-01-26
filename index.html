@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="./images/favicon.ico">
+    <title>Moonquake Map | Visualizer</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style2.css">
+    <script type="module" src="./js/scripts.js"></script>
+</head>
+<body>
+    <header>
+
+        <div id="_header_right-6-6135" class="oxy-header-right">
+
+        <a id="info" class="ct-link-text" href="./carousel/index.html">THE PROJECT</a>
+        </div>
+
+    </header>
+    <main id="contenedor-general">
+        <div id="infoButton"
+            style="z-index: 2; background: none; opacity: 0.9; position: absolute; top: 4px; left: 4px;"
+            class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button"
+            aria-disabled="false">
+            <span class="ui-button-text">
+                <a href="/src/index.html">
+                    <img id="logo" src="./img/LOGO-WEB.png" width="350">
+                </a>
+
+            </span>
+        </div>
+
+        <div class="dg main a" style="user-select: none; width: 216px;">
+            <div style="width: 6px; margin-left: -3px; height: 336px; cursor: ew-resize; position: absolute;">
+            </div>
+            <ul style="height: auto;">
+<<<<<<< Updated upstream
+                <li class="cr string">
+                    <strong>To visualize moonquakes select year:</strong>
+                </li>
+                <li class="cr string">
+                    <div>
+                        <div class="c">
+                            <select name="selectYears" id="selectYears"> 
+                                <option value="moon" selected>Full moon</option>
+                                <option value="1973">1973</option>
+                                <option value="1975">1975</option>
+                                <option value="2005">2005</option>
+                                <option value="2006">2006</option>
+                            </select>
+                        </div>
+                    </div>
+                </li>
+                <li class="cr string">
+                    <div>
+                        <button id="myButton">Explore</button>
+=======
+
+                <li class="cr number has-slider">
+                    <div><span class="property-name">d = </span>
+                        <div class="c">
+                            <div><input type="text"></div>
+                            <div class="slider">
+                                <div class="slider-fg" style="width: 60%;"></div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+                </li>
+                <li class="folder">
+                    <div class="dg">
+                        <ul class="closed">
+                            <li class="title">Preset equations</li>
+                            <li class="cr function">
+                                <div><span class="property-name">Trefoil</span>
+                                    <div class="c">
+                                        <div class="button"></div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </li>
+                <li class="cr function">
+                    <div><span class="property-name">Reset Camera</span>
+                        <div class="c">
+                            <div class="button"></div>
+                        </div>
+                    </div>
+                </li>
+                <li class="cr function">
+                    <div><span class="property-name">Graph Function</span>
+                        <div class="c">
+                            <div class="button"></div>
+                        </div>
+>>>>>>> Stashed changes
+                    </div>
+                </li>
+            </ul>
+            <li class="cr function">
+                <div>
+                    <div class="c">
+                        <button onclick="reset()">Refresh</button>
+                    </div>
+                </div>
+            </li>
+        </div>
+    </main>
+</body>
+<script>
+    function reset(){
+        location.reload();        
+    } 
+</script>
+<script type="module">
+    import {loadTexture} from "./js/scripts.js"
+    document.getElementById("myButton").addEventListener("click",loadTexture);
+</script>
+
+
+</html>

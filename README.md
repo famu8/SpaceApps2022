@@ -1,19 +1,8 @@
-# solarsystem
-
-"How To Make An Object Rotate Around Another Object In Three.js - Create A Solar System" YouTube tutorial project files https://youtu.be/XXzqSAt3UIw
-
-1. Download repository
-2. Make sure to install dependencies: open project in VSCode -> open command line -> type: npm install
-3. Install Parcel by typing the following command: npm install parcel -g
-4. Run Parcel by typing this command: npm parcel ./src/index.html
-5. Ctrl + left click on the address generated in the command line. Or open your browser and copy paste this address http://localhost:1234
-6. Have fun! :D
-
-Textures from:
-
-http://planetpixelemporium.com/mercury.html
-
-https://www.deviantart.com/niko22966/art/Rings-of-Saturn-419585311
-
-https://favpng.com/png_view/uranus-the-trooth-texture-mapping-planet-mykolaiv-png/0rw9hFBt
 # SpaceApps2022
+This project was developed during NASA 
+Space Apps 2022 and involved the creation of a web application with a three-dimensional, interactive model for the 
+visualisation of seismic activity on the moon visualisation of seismic activity on the moon, using JS, specifically 
+threejs. Direct link to the project here: https://moonquakemap.000webhostapp.com/index.html
+View the website explaining the project and the moon visualizer.
+
+For further information please do not hesitate to contact me: famu1@gcloud.ua.es or https://www.linkedin.com/in/fernandoaugustomarinaurriola/
