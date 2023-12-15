@@ -5,4 +5,4 @@ visualisation of seismic activity on the moon visualisation of seismic activity 
 threejs. Direct link to the project here: https://moonquakemap.000webhostapp.com/index.html
 View the website explaining the project and the moon visualizer.
 
-For further information please do not hesitate to contact me: famu1@gcloud.ua.es or https://www.linkedin.com/in/fernandoaugustomarinaurriola/
+For further information please do not hesitate to contact me: s233144@dtu.dk or https://www.linkedin.com/in/fernandoaugustomarinaurriola/
